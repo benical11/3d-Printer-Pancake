@@ -1,15 +1,16 @@
 # 3d-Printer-Pancake
 
-2D Pancake Yazılımı Kullanım Kılavuzu
+3D Pancake Yazılımı Kullanım Kılavuzu
 
-1.Adım: Processing ve Inkscape programlarını indirmek için linkler aşağıdadır:
+## **1.ADIM:** Processing ve Inkscape programlarını indirmek için linkler aşağıdadır:
 
 Processing:https://processing.org/download (4.0beta7 sürümü)
+
 Inkscape: https://inkscape.org/release/inkscape-0.92
 
 
 
-2. ADIM:
+## **2. ADIM:**
 Arduino IDE üzerinden “AFMotor.h” kütüphanesi ide üzerine eklenir:
 
 Kütüphaneleri yönete tıklayıp
@@ -20,7 +21,7 @@ Adafruit Motor Shield Library’i aratıp “Kur” ‘ a basıp indirilir:
 Böylelikle AFMotor.h kütüphanesi Arduino IDE’ye eklenmiş olur.
 
 
-3. Adım:
+## **3. Adım:**
 
 Arduino UNO kartına kod yüklü değil ise CNC_code klasörü içerisindeki dosyayı
 
@@ -58,7 +59,7 @@ Sol üstte "->" işareti olan “Yükle” butonu ile mikroişlemciye kod yükle
 
 
 
-4. Adım:
+## **4.ADIM:**
 
 Processing ile GCTRL işlemleri yapılması:
 
